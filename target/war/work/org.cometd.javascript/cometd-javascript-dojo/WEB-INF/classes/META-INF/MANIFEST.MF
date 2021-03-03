@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1572872942649
+Build-Jdk: 13
+Built-By: simon
+Bundle-ContactAddress: https://cometd.org/cometd-javascript/cometd-javas
+ cript-dojo
+Bundle-Description: The CometD project is a scalable web messaging bus t
+ hat uses WebSocketand HTTP AJAX push technology patterns known as "Come
+ t" techniques
+Bundle-DocURL: http://docs.cometd.org
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CometD :: JavaScript :: Dojo
+Bundle-SymbolicName: cometd-javascript-dojo
+Bundle-Vendor: The CometD Project
+Bundle-Version: 4.0.5
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-4.2.0.201903051501
